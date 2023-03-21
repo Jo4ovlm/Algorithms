@@ -1,2 +1,2 @@
-# CPP
+# Algorithms
 My projects in C++
