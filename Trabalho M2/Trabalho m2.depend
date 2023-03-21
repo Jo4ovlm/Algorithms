@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1652721235 source:c:\users\jo4ov\onedrive\Área de trabalho\faculdade\3 semestre\arquitetura de processadores\m2\trabalho m2\main.cpp
+	<iostream>
+	<iomanip>
+	<cstdlib>
+
